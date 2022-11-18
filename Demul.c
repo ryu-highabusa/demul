@@ -20,6 +20,7 @@
 #include "gpu.h"
 #include "plugins.h"
 #include "configure.h"
+#include "debug.h"
 
 bool EmuRunning = false;
 static bool EmuOpened = false;
